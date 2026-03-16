@@ -1,3 +1,9 @@
+
+This license applies **only** to the code in the root of this repository (including `minecraft-robots.py`).
+The code in the `minecraft` directory is third-party code and is **not** covered by this license. It retains its original license and copyright.
+
+---
+
 GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
 
